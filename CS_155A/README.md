@@ -1,4 +1,4 @@
-Repository for howework and notes for CCSF CS 155A, Spring 2015. 
+Repository for homework and notes for CCSF CS 155A, Spring 2015. 
 
 Course Description:
 
