@@ -28,7 +28,7 @@ Examples:
 * $SHELL: absolute path to your shell location
 * $TERM: your terminal type
 
-####### history
+###### history
 
 * Displays a list of all your executed commands
 * Each previously executed command has a number associated with it
