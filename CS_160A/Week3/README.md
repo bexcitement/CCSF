@@ -1,7 +1,6 @@
 ### Week 3
 
 ###### Shell Variables
-
 * A named location that contains a value
 * All vars in the shell are implicitly strings and not declared
 
