@@ -18,11 +18,11 @@
 * only have permission if letter is present, dash means no permission
 * A file can be removed if that user has -wx permissions on the directory it is in, none needed on the file.
 * A user does not need w permissions to rm an empty directory, but does need w permissions on the parent directory.
-
 *inode number: The number associated with a specific piece of data that is stored in the inode table that the inner works of the linux system utilizes.
 	- inode number can be seen via ls -i
 
 Permissions need to utilize pieces of data:
+
 | operations | permissions to dir | permissions to file |
 | ---------- | ------------------ | ------------------- |
 | ls dir | r | --- |
@@ -58,7 +58,7 @@ ls -l noex/fileA
 This only runs if you have at least -wx permissions to the dir.
 ```
 rm noex/file.txt
-	```
+```
 
 
 ###### chmod
